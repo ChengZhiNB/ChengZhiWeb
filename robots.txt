@@ -1,0 +1,5 @@
+# robots.txt generated at https://www.sojson.com/robots/
+User-agent: Mediapartners-Google
+Disallow: /
+User-agent: *
+Disallow:
